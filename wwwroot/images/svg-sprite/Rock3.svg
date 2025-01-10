@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.207081mm"
+   height="60.060417mm"
+   viewBox="0 0 48.207081 60.060417"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="SVGID_6_"
+       gradientUnits="userSpaceOnUse"
+       x1="967.64148"
+       y1="240.8181"
+       x2="999.5282"
+       y2="222.59711">
+			<stop
+   offset="0"
+   style="stop-color:#9C9EA1"
+   id="stop33" />
+
+			<stop
+   offset="0.2337"
+   style="stop-color:#999B9E"
+   id="stop34" />
+
+			<stop
+   offset="0.4321"
+   style="stop-color:#8F9193"
+   id="stop35" />
+
+			<stop
+   offset="0.6174"
+   style="stop-color:#7E8082"
+   id="stop36" />
+
+			<stop
+   offset="0.7949"
+   style="stop-color:#676869"
+   id="stop37" />
+
+			<stop
+   offset="0.9654"
+   style="stop-color:#494949"
+   id="stop38" />
+
+			<stop
+   offset="1"
+   style="stop-color:#424242"
+   id="stop39" />
+
+		</linearGradient>
+    <linearGradient
+       id="SVGID_7_"
+       gradientUnits="userSpaceOnUse"
+       x1="891.54608"
+       y1="309.93881"
+       x2="999.08759"
+       y2="309.93881">
+			<stop
+   offset="0"
+   style="stop-color:#9C9EA1"
+   id="stop40" />
+
+			<stop
+   offset="0.2337"
+   style="stop-color:#999B9E"
+   id="stop41" />
+
+			<stop
+   offset="0.4321"
+   style="stop-color:#8F9193"
+   id="stop42" />
+
+			<stop
+   offset="0.6174"
+   style="stop-color:#7E8082"
+   id="stop43" />
+
+			<stop
+   offset="0.7949"
+   style="stop-color:#676869"
+   id="stop44" />
+
+			<stop
+   offset="0.9654"
+   style="stop-color:#494949"
+   id="stop45" />
+
+			<stop
+   offset="1"
+   style="stop-color:#424242"
+   id="stop46" />
+
+		</linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-0.78176228,-1.4314345)">
+    <g
+       id="g46"
+       transform="matrix(0.26458333,0,0,0.26458333,-215.35636,-39.843565)">
+		<polygon
+   class="st0"
+   points="816.9,244.8 966.2,236.9 966.2,156 890,156 "
+   id="polygon32"
+   style="fill:#e6e6e6" />
+
+		<polygon
+   class="st4"
+   points="838.9,362 891.5,383 966.2,236.9 816.9,244.8 "
+   id="polygon33"
+   style="fill:#d0d2d3" />
+
+		<linearGradient
+   id="linearGradient7"
+   gradientUnits="userSpaceOnUse"
+   x1="967.64148"
+   y1="240.8181"
+   x2="999.5282"
+   y2="222.59711">
+			<stop
+   offset="0"
+   style="stop-color:#9C9EA1"
+   id="stop1" />
+
+			<stop
+   offset="0.2337"
+   style="stop-color:#999B9E"
+   id="stop2" />
+
+			<stop
+   offset="0.4321"
+   style="stop-color:#8F9193"
+   id="stop3" />
+
+			<stop
+   offset="0.6174"
+   style="stop-color:#7E8082"
+   id="stop4" />
+
+			<stop
+   offset="0.7949"
+   style="stop-color:#676869"
+   id="stop5" />
+
+			<stop
+   offset="0.9654"
+   style="stop-color:#494949"
+   id="stop6" />
+
+			<stop
+   offset="1"
+   style="stop-color:#424242"
+   id="stop7" />
+
+		</linearGradient>
+
+		<polygon
+   class="st7"
+   points="994.4,211.7 999.1,308.6 966.2,236.9 966.2,156 "
+   id="polygon39"
+   style="fill:url(#SVGID_6_)" />
+
+		<linearGradient
+   id="linearGradient14"
+   gradientUnits="userSpaceOnUse"
+   x1="891.54608"
+   y1="309.93881"
+   x2="999.08759"
+   y2="309.93881">
+			<stop
+   offset="0"
+   style="stop-color:#9C9EA1"
+   id="stop8" />
+
+			<stop
+   offset="0.2337"
+   style="stop-color:#999B9E"
+   id="stop9" />
+
+			<stop
+   offset="0.4321"
+   style="stop-color:#8F9193"
+   id="stop10" />
+
+			<stop
+   offset="0.6174"
+   style="stop-color:#7E8082"
+   id="stop11" />
+
+			<stop
+   offset="0.7949"
+   style="stop-color:#676869"
+   id="stop12" />
+
+			<stop
+   offset="0.9654"
+   style="stop-color:#494949"
+   id="stop13" />
+
+			<stop
+   offset="1"
+   style="stop-color:#424242"
+   id="stop14" />
+
+		</linearGradient>
+
+		<polygon
+   class="st8"
+   points="954.3,368.5 999.1,308.6 966.2,236.9 891.5,383 "
+   id="polygon46"
+   style="fill:url(#SVGID_7_)" />
+
+	</g>
+  </g>
+</svg>

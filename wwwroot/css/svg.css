@@ -1,0 +1,77 @@
+﻿/* best ever power lines*/
+.mask-rect {
+    animation: slide-mask-keyframes-left 3s ease  infinite;
+}
+.mask-rect-left {
+    animation: slide-mask-keyframes-left 3s ease  infinite;
+}
+.mask-rect-right {
+    animation: slide-mask-keyframes-right 3s ease  infinite;
+}
+.mask-rect-up {
+    animation: slide-mask-keyframes-up 3s ease  infinite;
+}
+.mask-rect-down {
+    animation: slide-mask-keyframes-down 3s ease  infinite;
+}
+@keyframes slide-mask-keyframes-left {
+    from {
+        x: -100%;
+    }
+
+    to {
+        x: 100%;
+    }
+}
+@keyframes slide-mask-keyframes-right {
+    from {
+        x: 100%;
+    }
+
+    to {
+        x: -100%;
+    }
+}
+@keyframes slide-mask-keyframes-up {
+    from {
+        y: -100%;
+    }
+
+    to {
+        y: 100%;
+    }
+}
+@keyframes slide-mask-keyframes-down {
+    from {
+        y: 100%;
+    }
+
+    to {
+        y: -100%;
+    }
+}
+
+/*Menu*/
+.menux-item {
+    stroke: #0071c1;
+}
+
+    .menux-item text {
+        font-family: 'Times New Roman';
+        fill: #00ffff;
+        stroke: none;
+    }
+
+    .menux-item rect {
+        fill: none;
+        stroke: #00ffff;
+        stroke-width: 3px;
+        filter: url(#blue-glow);
+    }
+
+    .menux-item:hover rect {
+        fill: #0000ff;
+        fill-opacity: .1;
+        /*  stroke: #00ffff;
+            box-shadow: inset 0 0 30px #0c7575; */
+    }
