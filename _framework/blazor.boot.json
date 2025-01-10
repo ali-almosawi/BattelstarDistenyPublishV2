@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BattelstarDistenyUI",
   "resources": {
-    "hash": "sha256-XSk+AMMzVLslnjYWZDTe2v62HTm/v8f4Pp2KXlISkBc=",
+    "hash": "sha256-NYYD21M7y7geWJJ/PTqh2qM5gEIe0P7HfpLIYrowxcw=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.bw77k7nuop.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BattelstarDistenyUI.dll": "sha256-4w7htsRNEhprKCOY7p+3a7DBiWFYvew+WcCZHl+nNEk=",
+      "BattelstarDistenyUI.dll": "sha256-1zg2PUJV+YXiu27x2jHkDqJKZD8h0l8RN/WM0O9diOY=",
       "Blazored.LocalStorage.dll": "sha256-ZGOhicUlxsmaD44LUlk9QGefwrharIvp8bP1r4UKlPU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-+kgtuq81d4OXRnf/axdh0RC0GO48L9DbdmWSz3gZSE4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-996gvZPcDE1om6NTOI3N/46VOH1hATciZTUVjXINWb4=",
@@ -48,9 +48,10 @@
       "System.Net.Primitives.dll": "sha256-PzepWhcy9WF5P01HkufQ8aeT/jUJiOY8vR5k9xg+9Eo=",
       "System.Numerics.Vectors.dll": "sha256-j5n7LtRf6O89EFgWvrMLTtK5BYrPkCXdmEp4AD7+Hs4=",
       "System.ObjectModel.dll": "sha256-U9/g1v2O7vZKktzS8zbfUJjCA7VLCDrIcscKj+q2Dzc=",
-      "System.Private.CoreLib.dll": "sha256-t3muyF9RNgn4yDcjYPQ/Qxe21S+rMIZCaOqsOPvNQ0k=",
+      "System.Private.CoreLib.dll": "sha256-7T9k2fnaL2lTJa8feiehQtfSVIxXwtWd/Hli/30407M=",
       "System.Private.Uri.dll": "sha256-Ms04ZYHT/CxgFNZppEh8iCXyAC/LUT3/EPpMxLNkK04=",
-      "System.Runtime.dll": "sha256-T3qp9VcRxQg1sOkiAJoucGcqozBPJIax02LYwEyJNrw=",
+      "System.Runtime.dll": "sha256-QpMW6enJhyQ+YHi/kmJUTqsrHwXLqKKLk7WMGFGHp1I=",
+      "System.Runtime.InteropServices.dll": "sha256-EgpfSdrfMoqwo7iIGpO0AbImzPN/ny712qD32ZVpSFA=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-1wyTOizDpjSjKmbbfyeccOMAlcsH47pN7Fxkm4mkNVU=",
       "System.Text.Encodings.Web.dll": "sha256-ZvBM6DYuHvAoNR8w8zIpDgc2uaA5mIbo5LhE24pORO0=",
       "System.Text.Json.dll": "sha256-2zzK3KWFiqRuzAJbpvPltm9nA4UBY0K0B24g5vTSt8A=",
