@@ -116,39 +116,6 @@ window.getSvgViewBox = (elementId) => {
     };
 };
 
-//window.dragDrop = {
-//    init: function (elementId, dotNetHelper) {
-//        var element = document.getElementById(elementId);
-//        element.addEventListener('mousedown', function (event) {
-//            event.preventDefault();
-//            dotNetHelper.invokeMethodAsync('OnMouseDown', event.clientX, event.clientY);
-//        });
-//        element.addEventListener('mousemove', function (event) {
-//            event.preventDefault();
-//            dotNetHelper.invokeMethodAsync('OnMouseMove', event.clientX, event.clientY);
-//        });
-//        element.addEventListener('mouseup', function (event) {
-//            event.preventDefault();
-//            dotNetHelper.invokeMethodAsync('OnMouseUp', event.clientX, event.clientY);
-//        });
-//        element.addEventListener('touchstart', function (event) {
-//            event.preventDefault();
-//            const touch = event.touches[0];
-//            dotNetHelper.invokeMethodAsync('OnMouseDown', touch.clientX, touch.clientY);
-//        });
-//        element.addEventListener('touchmove', function (event) {
-//            event.preventDefault();
-//            const touch = event.touches[0];
-//            dotNetHelper.invokeMethodAsync('OnMouseMove', touch.clientX, touch.clientY);
-//        });
-//        element.addEventListener('touchend', function (event) {
-//            event.preventDefault();
-//            const touch = event.changedTouches[0];
-//            dotNetHelper.invokeMethodAsync('OnMouseUp', touch.clientX, touch.clientY);
-//        });
-//    },
-//}
-
 window.dragDrop = {
     init: function (elementId, dotNetHelper) {
         var element = document.getElementById(elementId);
