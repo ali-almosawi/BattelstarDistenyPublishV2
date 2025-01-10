@@ -20,5 +20,10 @@ for %%f in (wwwroot\*) do (
 REM Remove the wwwroot folder if empty
 if not exist "wwwroot\*" rmdir /s /q "wwwroot"
 
-echo All operations completed.
+REM Run git commands 
+git add . 
+git commit -m "publishing" 
+git push 
+
+echo All operations completed. 
 pause
